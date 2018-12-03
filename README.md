@@ -1,0 +1,3 @@
+# MyMetasploitModule
+Myself Metasploit moudle
+ 
